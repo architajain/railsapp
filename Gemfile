@@ -8,6 +8,7 @@ gem 'will_paginate', '3.0.4'
 gem 'bootstrap-will_paginate', '0.0.9'
 gem "atomic", "~> 1.1.10"
 gem 'pg'
+gem 'rails_12factor'
 # Use sqlite3 as the database for Active Record
 group :test do
    gem 'selenium-webdriver'
